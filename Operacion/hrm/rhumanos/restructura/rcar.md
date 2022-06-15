@@ -127,7 +127,7 @@ Finalmente, en el campo _peso_, digitamos el peso que tiene el tipo de educació
 Diligenciada la información de cada pestaña de la aplicación **RCAR – Cargos**, finaliza el proceso de creación de un cargo en OasisCom.
 
 
-
+Santiago
 
 
 
