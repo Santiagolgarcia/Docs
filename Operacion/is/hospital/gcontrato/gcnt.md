@@ -19,3 +19,9 @@ Al dar clic en guardar, se insertará el detalle automáticamente.
 ![](gcnt1.png)
 
 Verificada la información, se procesa el contrato dando clic en el botón Procesar ![](procesar.png) del maestro.  
+
+
+
+
+
+SANTIAGO
